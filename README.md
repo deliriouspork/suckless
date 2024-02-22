@@ -1,6 +1,6 @@
 # Suckless Configs
 
-## [dwm](dmw/)
+## [dwm](dwm/)
 > Requirements:
 > - Font Awesome
 >

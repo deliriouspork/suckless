@@ -1,0 +1,3 @@
+/usr/lib/xfce-polkit/xfce-polkit &
+nitrogen --restore &
+exec dwm

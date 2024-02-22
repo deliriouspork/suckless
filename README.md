@@ -1,4 +1,4 @@
-# Suckless configs
+# Suckless Configs
 
 ## dwm
 > Requirements:

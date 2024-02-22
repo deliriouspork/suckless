@@ -1,23 +1,23 @@
 # Suckless Configs
 
-## dwm
+## [dwm](dmw/)
 > Requirements:
-> 1. Font Awesome
+> - Font Awesome
 >
 > Installed Patches:
-> 1. fullgaps
-> 2. alwayscenter
+> - fullgaps
+> - alwayscenter
 
-## dmenu
+## [dmenu](dmenu/)
 > Requirements:
-> 1. None
+> - none
 >
 > Installed Patches:
-> 1. None
+> - none
 
-## st
+## [st](st/)
 > Requirements:
-> 1. None
+> - none
 >
 > Installed Patches:
-> 1. nordtheme
+> - nordtheme

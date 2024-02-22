@@ -21,3 +21,13 @@
 >
 > Installed Patches:
 > - nordtheme
+
+## [linux_misc](linux_misc/)
+> xinitrc
+>> Requirements:
+>> - polkit and xfce_polkit (AUR)
+>> - nitrogen (with wallpaper set up)
+
+> bashrc
+>> Requirements:
+>> - neofetch

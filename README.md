@@ -36,6 +36,13 @@
 >>
 >> Installed Patches:
 >> - nordtheme
+>
+> [slstatus](slstatus/)
+>> Requirements:
+>> - none
+>>
+>> Installed Patches:
+>> - none
 
 
 ## Linux

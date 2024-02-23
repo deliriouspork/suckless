@@ -1,33 +1,50 @@
-# Suckless Configs
+#  Configs
 
-## [dwm](dwm/)
+## Suckless
 > Requirements:
-> - Font Awesome
+> - git
+> - base-devel
+> - xorg-server
+> - xorg-xinit
+> - libx11
+> - libxinerama
+> - libxft
+> - webkit2gtk
 >
-> Installed Patches:
-> - fullgaps
-> - alwayscenter
-
-## [dmenu](dmenu/)
-> Requirements:
-> - none
+> Notes:
+> - Configure monitors with nvidia-settings
+> - Need to set up wallpaper with nitrogen before nitrogen can work in .xinitrc
 >
-> Installed Patches:
-> - none
-
-## [st](st/)
-> Requirements:
-> - none
+> [dwm](dwm/)
+>> Requirements:
+>> - Font Awesome
+>>
+>> Installed Patches:
+>> - fullgaps
+>> - alwayscenter
 >
-> Installed Patches:
-> - nordtheme
+> [dmenu](dmenu/)
+>> Requirements:
+>> - none
+>>
+>> Installed Patches:
+>> - none
+>
+> [st](st/)
+>> Requirements:
+>> - none
+>>
+>> Installed Patches:
+>> - nordtheme
 
-## [linux_misc](linux_misc/)
-> xinitrc
+
+## Linux
+> [linux_misc](linux_misc/)
+> .xinitrc
 >> Requirements:
 >> - polkit and xfce_polkit (AUR)
 >> - nitrogen (with wallpaper set up)
-
-> bashrc
+>
+> .bashrc
 >> Requirements:
 >> - neofetch

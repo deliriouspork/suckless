@@ -1,3 +1,4 @@
 /usr/lib/xfce-polkit/xfce-polkit &
 nitrogen --restore &
+slstatus &
 exec dwm

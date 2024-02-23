@@ -17,7 +17,7 @@
 >
 > [dwm](dwm/)
 >> Requirements:
->> - Font Awesome
+>> - ttf-font-awesome
 >>
 >> Installed Patches:
 >> - fullgaps

@@ -46,12 +46,11 @@
 
 
 ## Linux
-> [linux_misc](linux_misc/)
-> .xinitrc
+> [.xinitrc](linux_misc/xinitrc)
 >> Requirements:
 >> - polkit and xfce_polkit (AUR)
 >> - nitrogen (with wallpaper set up)
 >
-> .bashrc
+> [.bashrc](linux_misc/bashrc)
 >> Requirements:
 >> - neofetch

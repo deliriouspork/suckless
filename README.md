@@ -39,7 +39,7 @@
 >
 > [slstatus](slstatus/)
 >> Requirements:
->> - none
+>> - dmenu
 >>
 >> Installed Patches:
 >> - none
@@ -50,6 +50,7 @@
 >> Requirements:
 >> - polkit and xfce_polkit (AUR)
 >> - nitrogen (with wallpaper set up)
+>> - suckless software above installed
 >
 > [.bashrc](linux_misc/bashrc)
 >> Requirements:
